@@ -44,3 +44,15 @@ biology_score: Score achieved by the student in biology.
 
 english_score: Score achieved by the student in English.
 geography_score: Score achieved by the student in geography.
+
+
+
+![image](https://github.com/user-attachments/assets/569eee09-904b-4dcd-ae1c-b4421012e09f)
+
+
+![image](https://github.com/user-attachments/assets/a55cb913-bde7-48f8-a4c3-17fc9d3145b4)
+
+
+![image](https://github.com/user-attachments/assets/88fb9ac3-feb3-4bb1-abbe-5a75ac515dab)
+
+
